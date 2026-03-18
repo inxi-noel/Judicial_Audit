@@ -1,0 +1,1 @@
+"""Xiangyuan account automation package."""
