@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data files (VERY IMPORTANT)
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.rar
+*.7z
+
+# Runtime / outputs
+output/
+outputs/
+runtime/
+logs/
+exports/
+downloads/
+temp/
+cache/
+
+# Secrets
+.env
+*.env
+config.local.py
+secrets.json
+
+# Build
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
